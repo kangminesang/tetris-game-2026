@@ -1,0 +1,22 @@
+body {
+    background: #202028;
+    color: #fff;
+    text-align: center;
+}
+
+canvas {
+    border: solid 2px #fff;
+    background-color: #000;
+    display: block;
+    margin: 20px auto;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+#score {
+    font-size: 18px;
+    margin-top: 20px;
+}
